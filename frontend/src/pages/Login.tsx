@@ -75,11 +75,11 @@ function Login() {
       <div className="w-full h-screen flex items-start">
         <div className="relative w-1/2 h-full flex flex-col">
           <div className="absolute top-[20%] left-[10%] flex flex-col">
-            <h1 className="text-4xl text-[#F9A109] font-bold my-4">
-              Turn Your Ideas into reality
+            <h1 className="text-3xl text-[#F9A109] font-bold my-4">
+              Shop Smart, Live Better with Shoppingify
             </h1>
             <p className="text-xl text-[#3F3D56] font-normal">
-              Start for free and get attrative offers from the community
+              Organize your shopping, track your habits, and shop smarter
             </p>
           </div>
           <img src={SHOPPING_IMAGE} className="w-full h-full object-contain" />
