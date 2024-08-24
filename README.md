@@ -54,5 +54,5 @@ Shoppingify is an application for managing shopping lists, tracking shopping his
   Start the development server:
   npm run dev
 ```
-
+![image](https://github.com/user-attachments/assets/c5566dab-b040-400d-8479-5255534861d7)
 
